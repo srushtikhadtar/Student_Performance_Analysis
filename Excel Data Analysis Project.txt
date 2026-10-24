@@ -1,0 +1,29 @@
+# Excel Data Analysis Project
+
+## Project Overview
+This project focuses on analyzing data using Microsoft Excel to identify trends, patterns, and useful insights.
+
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Charts and Data Visualization
+- Excel Formulas
+
+## Project Objectives
+- Clean and organize the dataset.
+- Analyze data using Excel.
+- Create Pivot Tables and charts.
+- Identify key insights from the data.
+
+## Project Files
+- Excel Workbook: Contains the dataset, analysis, and visualizations.
+- Dashboard Screenshots: Visual representation of the results (if available).
+
+## Key Learnings
+- Data cleaning and formatting
+- Data analysis using Pivot Tables
+- Data visualization
+- Generating insights from data
+
+## Conclusion
+This project helped me improve my Excel skills and understand how data analysis can support better decision-making.
